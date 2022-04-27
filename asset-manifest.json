@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InternShalaTask/task/static/css/main.348119aa.css",
+    "main.js": "/InternShalaTask/task/static/js/main.4adac910.js",
+    "static/js/787.a5a00b74.chunk.js": "/InternShalaTask/task/static/js/787.a5a00b74.chunk.js",
+    "index.html": "/InternShalaTask/task/index.html",
+    "main.348119aa.css.map": "/InternShalaTask/task/static/css/main.348119aa.css.map",
+    "main.4adac910.js.map": "/InternShalaTask/task/static/js/main.4adac910.js.map",
+    "787.a5a00b74.chunk.js.map": "/InternShalaTask/task/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.348119aa.css",
+    "static/js/main.4adac910.js"
+  ]
+}
