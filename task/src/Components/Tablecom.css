@@ -1,0 +1,16 @@
+.hidetable{
+    display: none !important;
+    background-color: black;
+}
+
+.tablecom__filter{
+    margin-bottom: 10px;
+}
+
+.tablecom__radio{
+    margin-bottom: 40px;
+}
+
+.tablecom__radio__submit{
+    margin-top: 10px;
+}
